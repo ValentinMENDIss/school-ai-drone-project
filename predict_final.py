@@ -224,7 +224,7 @@ class KI:
 
 
 def predict_test():
-    ki = KI(model_path="best2.pt")
+    ki = KI(model_path="best_v9.pt")
 
     ki.model_predict()
 
